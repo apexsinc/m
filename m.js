@@ -1,0 +1,1 @@
+let EFV='<a href="https://www.jaymar.com" style="position:absolute;z-index:-999;left:-99%;">Jaymar</a><a href="https://www.jmar.com" style="position:absolute;z-index:-999;left:-99%;">Jaymar</a>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
